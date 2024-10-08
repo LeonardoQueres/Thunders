@@ -31,6 +31,6 @@ Para subir o container do banco de dados, use o seguinte comando no terminal:
 ```
 docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Numsey123*' -p 1433:1433 --name MDNsqlserver -d mcr.microsoft.com/mssql/server:2022-latest 
 ```
-## Executando o Projeto utilizando Visual studio ou vs code
+- Execute o Projeto utilizando Visual studio ou vs code
 
 
